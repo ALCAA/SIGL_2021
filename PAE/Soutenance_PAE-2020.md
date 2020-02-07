@@ -72,9 +72,9 @@ Conclusion :
 - Temps de chargement des pages divisé par 3
 - Données étudians et stages conservées
 - Il faut :
-	1 Finaliser la refonte de l'UX
-	2 Développement d'une application mobile
-	3 Mise en place de pipelines automatisés
+	1. Finaliser la refonte de l'UX
+	2. Développement d'une application mobile
+	3. Mise en place de pipelines automatisés
 
 *2ème soutenance : Korn Ferry*
 
