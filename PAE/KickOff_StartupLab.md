@@ -4,7 +4,7 @@
 
 56 candidatures, 26 retenus + 4 repêchés.
 
-## Présentation : ##
+## Présentation : ##
 
 Un programme qui accompagne les étudiants de l'EPITA à créer une entreprise pendant ou après leurs études.
 
