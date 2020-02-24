@@ -15,6 +15,7 @@ tags: SCIA, IMAGE, MTI, GISTRE, cours
 
 ### Couples de variables aléatoires
 
+![test](https://github.com/ALCAA/SIGL_2021/tree/master/TC/res/ando_1.png)
 Soit 2 variables aléatoires $X$ et $Y$ (dans le cas discret) définies sur un espace probabilisé $(\Omega, \mathscr{C}, \mathbb{P})$
 
 * $\Omega$ Univers (l'ensemble des éléments élémentaires)
