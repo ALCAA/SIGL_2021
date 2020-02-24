@@ -1,4 +1,6 @@
-# KICK OFF STARTUP LAB #
+# KICK OFF STARTUP LAB #
+
+
 
 56 candidatures, 26 retenus + 4 repêchés.
 
@@ -28,7 +30,7 @@ S'il n'y a pas de concurrence il n'y a pas de marché mais s'il y a de la concur
 - Rencontrer des entrepreneurs dans leurs locaux.
 - Aider pour toutes questions juridiques (avocats à disposition).
 
-## Barême ##
+## Barême ##
 
 - 0 : pas d'implication
 
@@ -40,7 +42,7 @@ S'il n'y a pas de concurrence il n'y a pas de marché mais s'il y a de la concur
 
 - 18 < x < 20 : Clients
 
-## Planning ##
+## Planning ##
 
 - Février : KickOff
 - Mars : Product Market fit

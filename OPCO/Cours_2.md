@@ -1,8 +1,8 @@
 Comment passer de la théorie à la pratique:
 
-*Cour n°2*
+*Cours n°2*
 
-*_Risque Facteur de succès SWOT / FFOM:_*
+# Risque Facteur de succès SWOT / FFOM: # 
 
 **_Risque_**: Possibilité, probabilité d’un fait, d’un événement considéré comme un mal ou un dommage.
 
