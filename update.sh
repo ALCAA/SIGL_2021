@@ -7,7 +7,7 @@ for f in *; do
 	cd "$f"
 	printf "# $f Index page # \n \n" > index.md
 	for file in *; do
-		if ! cmp -s "$file" "index.md" ; then
+		if ! cmp -s "$file" "index.md" && ! cmp -s "$file" "tester.md"; then
 			echo "- [${file%.*}]($file)" >> index.md
 		fi
 	done
