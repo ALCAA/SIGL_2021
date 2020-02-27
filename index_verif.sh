@@ -16,6 +16,7 @@ for f in *; do
                                 echo "problème détecté dans ${f}/ avec les fichiers index.md, lancer le script update.sh"
                                 exit 1;
         fi
+	rm tester.md
 	cd ..
     fi
 done
@@ -23,4 +24,5 @@ if ! cmp -b tester.md index.md; then
 	echo "problème détecté avec le fichier index.md à la racine, lancer le script update.sh"
         exit 1;
 fi
+rm tester.md
 echo "l'archive est ok"
