@@ -1,4 +1,4 @@
-**Objectif**: Reporter avec quelque chose d'utile en entreprise. Réussir les tests techniques en entreprise ou des concours.
+**Objectif**: Repartir avec quelque chose d'utile en entreprise. Réussir les tests techniques en entreprise ou des concours.
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-Un objet est une unité atomique à l'indentioté unique qui encapsule un état et un comportement.
+Un objet est une unité atomique à l'identité unique qui encapsule un état et un comportement.
 
 
 
@@ -22,7 +22,7 @@ Un objet est une unité atomique à l'indentioté unique qui encapsule un état 
 
 
 
-**L'abstraction:** éliminer les aspects les moins pertinents dee la réflexion pour ne considérer que ceux qui sont essentiels.
+**L'abstraction:** éliminer les aspects les moins pertinents de la réflexion pour ne considérer que ceux qui sont essentiels.
 
 
 

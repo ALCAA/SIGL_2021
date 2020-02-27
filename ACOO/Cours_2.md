@@ -4,7 +4,7 @@
 
 *Encapsulation:*
 
-**Définition:** est le fait de masquer (protéger) des détails (attributs, méthode...) d'un objet qui ne contribuent pas essentiellement de résultat du service qu'il fournit
+**Définition:** est le fait de masquer (protéger) des détails (attributs, méthode...) d'un objet qui ne contribuent pas essentiellement de résultat du service qu'il fournit.
 
 
 
@@ -32,25 +32,25 @@ Il existe deux méthodes de hiérarchisation:
 
 *Typage:*
 
-**Définition:** c'est l'application d'une classe d'objet de sorte que les objets de différents types ne permet être interchange.
+**Définition:** c'est l'application d'une classe d'objet de sorte que les objets de différents types ne peuvent pas être interchangés.
 
 
 
 *Polymorphisme:*
 
-**Définition:** Caractéristique d'un élément qui permet de prendre plusieurs formes. Un objet polymorphisme peut prendre plusieurs formes. Un objet polymirphisque peut répondre à un ensemble.
+**Définition:** Caractéristique d'un élément qui permet de prendre plusieurs formes. Un objet polymorphisme peut prendre plusieurs formes. Un objet polymorphique peut répondre à un ensemble.
 
 Il existe trois types de polymorphisme:
 
 - Ad-Hoc: Permet la surcharge ( même nom mais plus d'argument)
-- Paramétre: Permet d'appliquer une fonction à des arguments n'importe quel type (template)
-- Héritage:
+- Paramètre: Permet d'appliquer une fonction à des arguments n'importe quel type (template)
+- Héritage: Permet l'overriding
 
 
 
-*Persistance:* est la propriété d'un objeet par laquelle son existance transcende le temps, et/ou l'espace.
+*Persistance:* est la propriété d'un objet par laquelle son existence transcende le temps, et/ou l'espace.
 
-Un objet persistant sauvegarde son état dans un systéme de stockage permanent.
+Un objet persistant sauvegarde son état dans un système de stockage permanent.
 
 
 
@@ -58,7 +58,7 @@ Un objet persistant sauvegarde son état dans un systéme de stockage permanent.
 
 
 
-**Modèle:** est une simplication de la réalité, afin de mieu comprendre un système complexe.
+**Modèle:** est une simplification de la réalité, afin de mieux comprendre un système complexe.
 
 
 
@@ -70,7 +70,7 @@ La modélisation permet de:
 
 
 
-4 pricnipes de la modélisation:
+4 principes de la modélisation:
 
 - Impact -> avenir
 - Niveaux de précision
@@ -79,11 +79,11 @@ La modélisation permet de:
 
 
 
-**UML:** Unified Modeliry language
+**UML:** Unified Modeling language
 
-*Définition:* famille de notation graphiques s'appuyant sur un méta modèle unique qui permet de décrire et de concevori des système logiciel orientés objet en particulier.
+*Définition:* famille de notation graphiques s'appuyant sur un méta modèle unique qui permet de décrire et de concevoir des système logiciel orientés objet en particulier.
 
-UML issu de plusieurs languages (OMT, SAOT, HOOD).
+UML issu de plusieurs langages (OMT, SAOT, HOOD).
 
 UML 2.0: Augmente Précision, Précise plus d'infos.
 
