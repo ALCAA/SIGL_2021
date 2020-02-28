@@ -1,4 +1,4 @@
-## Cours de SIGL 2021 ##
+## Cours de SIGL promo 2021 ##
 
 Ce répertoire contient toutes les prises de notes des cours durant le temps passé dans la majeure SIGL.
 
